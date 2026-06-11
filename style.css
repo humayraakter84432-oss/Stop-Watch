@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+}
+.spr{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#display {
+      font-size: 48px;
+      margin-bottom: 20px;
+      letter-spacing: 2px; 
+      text-align: center;  
+    }
+    #display .ms {
+      font-size: 28px;
+      color: gray;
+    }
+    button {
+      font-size: 15px;
+      padding: 8px 24px;
+      margin: 0 6px;
+      cursor: pointer;
+    }
